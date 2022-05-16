@@ -28,6 +28,16 @@
       "name": "Steve",
       "email": "steve@steve.com",
       "id": 1
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 2
+    },
+    {
+      "name": "Jim",
+      "email": "jim@jim.com",
+      "id": 3
     }
   ],
   "robots": [
